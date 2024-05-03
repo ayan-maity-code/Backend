@@ -1,0 +1,23 @@
+{
+  "name": "deploy-backend-code",
+  "version": "1.0.0",
+  "description": "deploy backend code in production",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayan-maity-code/Backend"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Ayan Maity",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
