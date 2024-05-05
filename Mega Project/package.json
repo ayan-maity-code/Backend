@@ -1,0 +1,19 @@
+{
+  "name": "mega-project",
+  "version": "1.0.0",
+  "description": "mega project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ayan-maity-code/backend"
+  },
+  "author": "Ayan Maity",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
